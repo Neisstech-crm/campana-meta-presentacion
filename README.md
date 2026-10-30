@@ -6,6 +6,6 @@ Lienzo de 1600 px escalado a la pantalla; navegación con flechas, teclado, #1�
 
 ## Contexto
 
-> **Organización:** `Neisstech-crm` (→ `Neisstech`) · **Tipo:** presentación estática (HTML, sin build). Mapa de la organización: [`docs-mapa-neisstech`](https://github.com/Neisstech-crm/docs-mapa-neisstech).
+> **Organización:** `Neisstech-crm` · **Tipo:** presentación · **Estado (30-oct-2026):** archivo: presentación del lanzamiento de Meta Ads (oct-2026) · **Corre en:** GitHub Pages (público) · **Mapa:** [`docs-mapa-neisstech`](https://github.com/Neisstech-crm/docs-mapa-neisstech)
 
 Se abre `index.html` en el navegador. Las landings que la campaña usa están en `web-landings`; el seguimiento de leads, en Nexor/Zoho y el CRM (`app-crm`).
